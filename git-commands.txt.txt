@@ -1,0 +1,6 @@
+git commands:
+git clone https://
+
+to swithc branches
+git checkout branchname
+
