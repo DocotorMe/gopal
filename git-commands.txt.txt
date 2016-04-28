@@ -4,3 +4,20 @@ git clone https://
 to swithc branches
 git checkout branchname
 
+to find out status of your git:
+git status
+
+process to push your change:
+first, git add . 
+
+git commit to make it really ready with message:
+git commit -m "message"
+
+pull lastest changes
+git pull origin branchname
+
+push your changes
+git push origin branchname
+
+git status
+git k
